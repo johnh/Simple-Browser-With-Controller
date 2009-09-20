@@ -15,6 +15,7 @@
 	IBOutlet WebView *myWebView;
 	IBOutlet NSButton *backButton;
 	IBOutlet NSButton *forwardButton;
+	IBOutlet NSTextField *urlTextField;
 }
 	// I'll declare methods here
 -(IBAction) loadPreviousPage: (id) sender;

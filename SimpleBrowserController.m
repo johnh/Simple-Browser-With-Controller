@@ -19,25 +19,27 @@
 
 -(IBAction) loadPreviousPage: (id) sender {
 	[myWebView goBack];
-	[self resetButtons];
-	 
 }
 
 -(IBAction) loadNextPage: (id) sender {
 	[myWebView goForward];
-	[self resetButtons];
+	
 }
 
 -(IBAction) loadURLFrom: (id) sender {
-	[myWebView takeStringURLFrom:sender];
-	[self resetButtons];
+	[myWebView takeStringURLFrom:sender];	
 }
 
-
+//update window title when title loaded from website
 - (void)webView:(WebView *)sender didReceiveTitle:(NSString *)title forFrame:(WebFrame *)frame {	
 	[[sender window] setTitle:title];
 }
 
-
+//update UI elements when web page finished loading
+- (void)webView:(WebView *)sender didFinishLoadForFrame:(WebFrame *)frame {
+	[self resetButtons];
+	[urlTextField setStringValue:[myWebView mainFrameURL]];
+	
+}
 
 @end
