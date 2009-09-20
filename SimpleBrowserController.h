@@ -7,10 +7,14 @@
 //
 
 #import <Cocoa/Cocoa.h>
+#import <WebKit/WebView.h>
 
 
 @interface SimpleBrowserController : NSObject {
 	// I'll declare instance variables here
+	IBOutlet WebView *myWebView;
 }
 	// I'll declare methods here
+-(IBAction) loadPreviousPage: (id) sender;
+
 @end

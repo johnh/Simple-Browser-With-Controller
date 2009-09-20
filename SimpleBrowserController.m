@@ -11,4 +11,7 @@
 
 @implementation SimpleBrowserController
 //haro's
+-(IBAction) loadPreviousPage: (id) sender {
+	
+}
 @end

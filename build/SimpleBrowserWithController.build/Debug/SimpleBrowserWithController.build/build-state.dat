@@ -1,166 +1,0 @@
-TSimpleBrowserWithController
-v7
-r0
-t275114103.133300
-cCheck dependencies
-cProcessInfoPlistFile /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/Info.plist Info.plist
-cCopyStringsFile /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-cCompileXIB /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/English.lproj/MainMenu.xib
-cProcessPCH /var/folders/WE/WEAoVmH9EZ8CGKhoFi-gyE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowserWithController_Prefix-dhornjbbrgwczrfqgcklijfitfgi/SimpleBrowserWithController_Prefix.pch.gch SimpleBrowserWithController_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/Objects-normal/i386/main.o /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/MacOS/SimpleBrowserWithController normal i386
-cTouch /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app
-
-N/Developer/SDKs/MacOSX10.5.sdk
-c000000004A49A9E400000000000000EE
-t1246341604
-s238
-
-N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
-c0000000040C4AA6800000000000001E5
-t1086630504
-s485
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000004A1F2D63000000000000A5E0
-t1243557219
-s42464
-
-N/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/English.lproj/InfoPlist.strings
-c000000004AB51B30000000000000005C
-t1253382960
-s92
-
-N/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/English.lproj/MainMenu.xib
-c000000004AB5B049000000000002883B
-t1253421129
-s165947
-
-N/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/SimpleBrowserWithController_Prefix.pch
-c000000004AB51B3000000000000000B9
-t1253382960
-s185
-i<Cocoa/Cocoa.h>
-
-N/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app
-t1253421303
-s102
-
-N/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/Info.plist
-t1253420804
-s829
-
-N/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/MacOS/SimpleBrowserWithController
-t1253420814
-s13212
-
-N/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/PkgInfo
-t1253420804
-s8
-
-N/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/Resources/English.lproj/InfoPlist.strings
-t1253420805
-s92
-
-N/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/Resources/English.lproj/MainMenu.nib
-t1253421303
-s32086
-
-N/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/Objects-normal/i386/SimpleBrowserWithController.LinkFileList
-c000000004AB5AF0400000000000000B3
-t1253420804
-s179
-
-N/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/Objects-normal/i386/main.o
-t1253420813
-s4920
-
-N/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/main.m
-c000000004AB51B30000000000000010E
-t1253382960
-s270
-i<Cocoa/Cocoa.h>
-
-N/var/folders/WE/WEAoVmH9EZ8CGKhoFi-gyE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowserWithController_Prefix-dhornjbbrgwczrfqgcklijfitfgi/SimpleBrowserWithController_Prefix.pch.gch
-t1253420813
-s54084016
-
-NInfo.plist
-c000000004AB51B300000000000000357
-t1253382960
-s855
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies275114102#275114102#0(0"0(0#1#0"4300882208#0"0#
-
-CCompileC build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/Objects-normal/i386/main.o /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s275113613.270034
-e275113613.518396
-r1
-xCompileC
-xbuild/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/Objects-normal/i386/main.o
-x/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@86"Compile /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/main.m275113613#275113613#0(0"0(0#0#78"/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/main.m4300882208#2205"    cd /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/SimpleBrowserWithController-generated-files.hmap -I/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/SimpleBrowserWithController-own-target-headers.hmap -I/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/SimpleBrowserWithController-all-target-headers.hmap -iquote /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/SimpleBrowserWithController-project-headers.hmap -F/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug -I/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/include -I/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/DerivedSources/i386 -I/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/DerivedSources -include /var/folders/WE/WEAoVmH9EZ8CGKhoFi-gyE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowserWithController_Prefix-dhornjbbrgwczrfqgcklijfitfgi/SimpleBrowserWithController_Prefix.pch -c /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/main.m -o /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/Objects-normal/i386/main.o0#
-
-CCompileXIB /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/English.lproj/MainMenu.xib
-s275114102.701650
-e275114103.130026
-r1
-xCompileXIB
-x/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/English.lproj/MainMenu.xib
-lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib275114102#275114103#0(0"0(0#0#98"/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/English.lproj/MainMenu.xib4300882208#446"    cd /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/Resources/English.lproj/MainMenu.nib /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/English.lproj/MainMenu.xib0#
-
-CCopyStringsFile /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s275113604.655630
-e275113605.822831
-r1
-xCopyStringsFile
-x/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/Resources/English.lproj/InfoPlist.strings
-xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings275113604#275113605#0(0"0(0#0#103"/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/English.lproj/InfoPlist.strings4300882208#452"    cd /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/Resources/English.lproj0#
-
-CLd /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/MacOS/SimpleBrowserWithController normal i386
-s275113613.518489
-e275113614.221596
-r1
-xLd
-x/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/MacOS/SimpleBrowserWithController
-xnormal
-xi386
-lSLF07#2@163"Link /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/MacOS/SimpleBrowserWithController275113613#275113614#0(0"0(0#0#0"4300882208#803"    cd /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug -F/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug -filelist /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/Objects-normal/i386/SimpleBrowserWithController.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/MacOS/SimpleBrowserWithController0#
-
-CProcessInfoPlistFile /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/Info.plist Info.plist
-s275113604.521047
-e275113604.655517
-r1
-xProcessInfoPlistFile
-x/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/Info.plist
-xInfo.plist
-lSLF07#2@18"Process Info.plist275113604#275113604#0(0"0(0#0#82"/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/Info.plist31525678434287664#441"    cd /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController    builtin-infoPlistUtility Info.plist -genpkginfo /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app/Contents/Info.plist0#
-
-CProcessPCH /var/folders/WE/WEAoVmH9EZ8CGKhoFi-gyE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowserWithController_Prefix-dhornjbbrgwczrfqgcklijfitfgi/SimpleBrowserWithController_Prefix.pch.gch SimpleBrowserWithController_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s275113607.566448
-e275113613.269826
-r1
-xProcessPCH
-x/var/folders/WE/WEAoVmH9EZ8CGKhoFi-gyE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowserWithController_Prefix-dhornjbbrgwczrfqgcklijfitfgi/SimpleBrowserWithController_Prefix.pch.gch
-xSimpleBrowserWithController_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@49"Precompile SimpleBrowserWithController_Prefix.pch275113607#275113613#0(0"0(0#0#110"/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/SimpleBrowserWithController_Prefix.pch4300882208#2060"    cd /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/SimpleBrowserWithController-generated-files.hmap -I/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/SimpleBrowserWithController-own-target-headers.hmap -I/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/SimpleBrowserWithController-all-target-headers.hmap -iquote /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/SimpleBrowserWithController-project-headers.hmap -F/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug -I/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/include -I/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/DerivedSources/i386 -I/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/SimpleBrowserWithController.build/Debug/SimpleBrowserWithController.build/DerivedSources -c /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/SimpleBrowserWithController_Prefix.pch -o /var/folders/WE/WEAoVmH9EZ8CGKhoFi-gyE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SimpleBrowserWithController_Prefix-dhornjbbrgwczrfqgcklijfitfgi/SimpleBrowserWithController_Prefix.pch.gch0#
-
-CTouch /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app
-s275114103.130379
-e275114103.133258
-r1
-xTouch
-x/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app
-lSLF07#2@121"Touch /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app275114103#275114103#0(0"0(0#0#0"4300882208#217"    cd /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController    /usr/bin/touch -c /Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/build/Debug/SimpleBrowserWithController.app0#
-
