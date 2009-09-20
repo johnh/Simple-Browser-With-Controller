@@ -297,7 +297,7 @@
 							<real>202</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>3 77 956 801 0 0 1440 878 </string>
+						<string>125 77 956 801 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -327,7 +327,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>815549FF1065F51E00092EAB</string>
+										<string>81554A3A1065FF8200092EAB</string>
 										<key>history</key>
 										<array>
 											<string>815549F61065F17500092EAB</string>
@@ -345,7 +345,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {732, 317}}</string>
 								<key>RubberWindowFrame</key>
-								<string>3 77 956 801 0 0 1440 878 </string>
+								<string>125 77 956 801 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -370,7 +370,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>81554A001065F51E00092EAB</string>
+										<string>81554A3B1065FF8200092EAB</string>
 										<key>history</key>
 										<array>
 											<string>815549ED1065F08C00092EAB</string>
@@ -388,7 +388,7 @@
 								<key>Frame</key>
 								<string>{{0, 322}, {732, 334}}</string>
 								<key>RubberWindowFrame</key>
-								<string>3 77 956 801 0 0 1440 878 </string>
+								<string>125 77 956 801 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -408,7 +408,7 @@
 								<key>Frame</key>
 								<string>{{0, 661}, {732, 99}}</string>
 								<key>RubberWindowFrame</key>
-								<string>3 77 956 801 0 0 1440 878 </string>
+								<string>125 77 956 801 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -574,13 +574,13 @@
 	<array>
 		<string>815549B91065E69500092EAB</string>
 		<string>815549BA1065E69500092EAB</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>815549AF1065E69500092EAB</string>
+		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/SimpleBrowserWithController.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>3 77 956 801 0 0 1440 878 </string>
+	<string>125 77 956 801 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -926,7 +926,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {650, 209}}</string>
 								<key>RubberWindowFrame</key>
-								<string>57 377 650 250 0 0 1440 878 </string>
+								<string>26 438 650 250 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXDebugCLIModule</string>
@@ -955,11 +955,11 @@
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.consoleV3</string>
 			<key>WindowString</key>
-			<string>57 377 650 250 0 0 1440 878 </string>
+			<string>26 438 650 250 0 0 1440 878 </string>
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>Identifier</key>

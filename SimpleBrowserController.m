@@ -11,7 +11,28 @@
 
 @implementation SimpleBrowserController
 //haro's
--(IBAction) loadPreviousPage: (id) sender {
+- (void) resetButtons {
+	[backButton setEnabled:[myWebView canGoBack]];
+	[forwardButton setEnabled:[myWebView canGoForward]];
 	
 }
+
+-(IBAction) loadPreviousPage: (id) sender {
+	[myWebView goBack];
+	[self resetButtons];
+	 
+}
+
+-(IBAction) loadNextPage: (id) sender {
+	[myWebView goForward];
+	[self resetButtons];
+}
+
+-(IBAction) loadURLFrom: (id) sender {
+	[myWebView takeStringURLFrom:sender];
+	[self resetButtons];
+}
+
+
+
 @end
