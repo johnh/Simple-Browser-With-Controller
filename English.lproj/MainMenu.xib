@@ -1814,38 +1814,6 @@
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBOutletConnection" key="connection">
-						<string key="label">myWebView</string>
-						<reference key="source" ref="918937561"/>
-						<reference key="destination" ref="544622443"/>
-					</object>
-					<int key="connectionID">473</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBActionConnection" key="connection">
-						<string key="label">loadPreviousPage:</string>
-						<reference key="source" ref="918937561"/>
-						<reference key="destination" ref="171840130"/>
-					</object>
-					<int key="connectionID">474</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBActionConnection" key="connection">
-						<string key="label">loadNextPage:</string>
-						<reference key="source" ref="918937561"/>
-						<reference key="destination" ref="669526336"/>
-					</object>
-					<int key="connectionID">475</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBActionConnection" key="connection">
-						<string key="label">loadURLFrom:</string>
-						<reference key="source" ref="918937561"/>
-						<reference key="destination" ref="239880706"/>
-					</object>
-					<int key="connectionID">476</int>
-				</object>
-				<object class="IBConnectionRecord">
-					<object class="IBOutletConnection" key="connection">
 						<string key="label">backButton</string>
 						<reference key="source" ref="918937561"/>
 						<reference key="destination" ref="171840130"/>
@@ -1875,6 +1843,30 @@
 						<reference key="destination" ref="239880706"/>
 					</object>
 					<int key="connectionID">482</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBActionConnection" key="connection">
+						<string key="label">takeStringURLFrom:</string>
+						<reference key="source" ref="544622443"/>
+						<reference key="destination" ref="239880706"/>
+					</object>
+					<int key="connectionID">483</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBActionConnection" key="connection">
+						<string key="label">goBack:</string>
+						<reference key="source" ref="544622443"/>
+						<reference key="destination" ref="171840130"/>
+					</object>
+					<int key="connectionID">484</int>
+				</object>
+				<object class="IBConnectionRecord">
+					<object class="IBActionConnection" key="connection">
+						<string key="label">goForward:</string>
+						<reference key="source" ref="544622443"/>
+						<reference key="destination" ref="669526336"/>
+					</object>
+					<int key="connectionID">485</int>
 				</object>
 			</object>
 			<object class="IBMutableOrderedSet" key="objectRecords">
@@ -3320,7 +3312,7 @@
 				</object>
 			</object>
 			<nil key="sourceID"/>
-			<int key="maxID">482</int>
+			<int key="maxID">485</int>
 		</object>
 		<object class="IBClassDescriber" key="IBDocument.Classes">
 			<object class="NSMutableArray" key="referencedPartialClassDescriptions">
@@ -3328,35 +3320,18 @@
 				<object class="IBPartialClassDescription">
 					<string key="className">SimpleBrowserController</string>
 					<string key="superclassName">NSObject</string>
-					<object class="NSMutableDictionary" key="actions">
-						<bool key="EncodedWithXMLCoder">YES</bool>
-						<object class="NSArray" key="dict.sortedKeys">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<string>loadNextPage:</string>
-							<string>loadPreviousPage:</string>
-							<string>loadURLFrom:</string>
-						</object>
-						<object class="NSMutableArray" key="dict.values">
-							<bool key="EncodedWithXMLCoder">YES</bool>
-							<string>id</string>
-							<string>id</string>
-							<string>id</string>
-						</object>
-					</object>
 					<object class="NSMutableDictionary" key="outlets">
 						<bool key="EncodedWithXMLCoder">YES</bool>
 						<object class="NSArray" key="dict.sortedKeys">
 							<bool key="EncodedWithXMLCoder">YES</bool>
 							<string>backButton</string>
 							<string>forwardButton</string>
-							<string>myWebView</string>
 							<string>urlTextField</string>
 						</object>
 						<object class="NSMutableArray" key="dict.values">
 							<bool key="EncodedWithXMLCoder">YES</bool>
 							<string>NSButton</string>
 							<string>NSButton</string>
-							<string>WebView</string>
 							<string>NSTextField</string>
 						</object>
 					</object>

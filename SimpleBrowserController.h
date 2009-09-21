@@ -12,13 +12,10 @@
 
 @interface SimpleBrowserController : NSObject {
 	// I'll declare instance variables here
-	IBOutlet WebView *myWebView;
 	IBOutlet NSButton *backButton;
 	IBOutlet NSButton *forwardButton;
 	IBOutlet NSTextField *urlTextField;
 }
 	// I'll declare methods here
--(IBAction) loadPreviousPage: (id) sender;
--(IBAction) loadNextPage: (id) sender;
--(IBAction) loadURLFrom: (id) sender;
+
 @end

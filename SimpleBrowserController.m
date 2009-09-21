@@ -11,24 +11,6 @@
 
 @implementation SimpleBrowserController
 //haro's
-- (void) resetButtons {
-	[backButton setEnabled:[myWebView canGoBack]];
-	[forwardButton setEnabled:[myWebView canGoForward]];
-	
-}
-
--(IBAction) loadPreviousPage: (id) sender {
-	[myWebView goBack];
-}
-
--(IBAction) loadNextPage: (id) sender {
-	[myWebView goForward];
-	
-}
-
--(IBAction) loadURLFrom: (id) sender {
-	[myWebView takeStringURLFrom:sender];	
-}
 
 //update window title when title loaded from website
 - (void)webView:(WebView *)sender didReceiveTitle:(NSString *)title forFrame:(WebFrame *)frame {	
@@ -37,8 +19,10 @@
 
 //update UI elements when web page finished loading
 - (void)webView:(WebView *)sender didFinishLoadForFrame:(WebFrame *)frame {
-	[self resetButtons];
-	[urlTextField setStringValue:[myWebView mainFrameURL]];
+	//reset back and forward buttons, update URL
+	[backButton setEnabled:[sender canGoBack]];
+	[forwardButton setEnabled:[sender canGoForward]];	
+	[urlTextField setStringValue:[sender mainFrameURL]];
 	
 }
 

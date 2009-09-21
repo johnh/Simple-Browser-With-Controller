@@ -293,7 +293,7 @@
 							<real>202</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>27 59 1111 819 0 0 1440 878 </string>
+						<string>15 59 1111 819 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -323,7 +323,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>81A60B921066BE8E00FEB3AC</string>
+										<string>81A60BA71066C37900FEB3AC</string>
 										<key>history</key>
 										<array>
 											<string>815549F61065F17500092EAB</string>
@@ -341,7 +341,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {887, 420}}</string>
 								<key>RubberWindowFrame</key>
-								<string>27 59 1111 819 0 0 1440 878 </string>
+								<string>15 59 1111 819 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -366,7 +366,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>81A60B931066BE8E00FEB3AC</string>
+										<string>81A60BA81066C37900FEB3AC</string>
 										<key>history</key>
 										<array>
 											<string>81A60B1B10669B5100FEB3AC</string>
@@ -384,7 +384,7 @@
 								<key>Frame</key>
 								<string>{{0, 425}, {887, 273}}</string>
 								<key>RubberWindowFrame</key>
-								<string>27 59 1111 819 0 0 1440 878 </string>
+								<string>15 59 1111 819 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -404,7 +404,7 @@
 								<key>Frame</key>
 								<string>{{0, 703}, {887, 75}}</string>
 								<key>RubberWindowFrame</key>
-								<string>27 59 1111 819 0 0 1440 878 </string>
+								<string>15 59 1111 819 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -568,6 +568,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>81A60B9C1066C1AD00FEB3AC</string>
 		<string>81A60B2910669B5100FEB3AC</string>
 		<string>81A60B2A10669B5100FEB3AC</string>
 		<string>1CD10A99069EF8BA00B06720</string>
@@ -576,7 +577,7 @@
 		<string>/Users/jharo/_dev/PramaticProgrammers_cocoa/SimpleBrowserWithController/SimpleBrowserWithController.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>27 59 1111 819 0 0 1440 878 </string>
+	<string>15 59 1111 819 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
