@@ -23,7 +23,7 @@
 	[backButton setEnabled:[sender canGoBack]];
 	[forwardButton setEnabled:[sender canGoForward]];	
 	[urlTextField setStringValue:[sender mainFrameURL]];
-	
+		
 }
 
 @end

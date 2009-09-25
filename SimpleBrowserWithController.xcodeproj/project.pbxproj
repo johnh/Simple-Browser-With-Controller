@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
+		812D006E106C879700F54DFD /* LoadingIndicatorController.m in Sources */ = {isa = PBXBuildFile; fileRef = 812D006D106C879700F54DFD /* LoadingIndicatorController.m */; };
 		815549D01065E8FC00092EAB /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 815549CF1065E8FC00092EAB /* WebKit.framework */; };
 		815549DC1065E9C200092EAB /* SimpleBrowserController.m in Sources */ = {isa = PBXBuildFile; fileRef = 815549DB1065E9C200092EAB /* SimpleBrowserController.m */; };
 		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
@@ -24,6 +25,8 @@
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
 		32CA4F630368D1EE00C91783 /* SimpleBrowserWithController_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleBrowserWithController_Prefix.pch; sourceTree = "<group>"; };
+		812D006C106C879700F54DFD /* LoadingIndicatorController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadingIndicatorController.h; sourceTree = "<group>"; };
+		812D006D106C879700F54DFD /* LoadingIndicatorController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadingIndicatorController.m; sourceTree = "<group>"; };
 		815549CF1065E8FC00092EAB /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = /System/Library/Frameworks/WebKit.framework; sourceTree = "<absolute>"; };
 		815549DA1065E9C200092EAB /* SimpleBrowserController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleBrowserController.h; sourceTree = "<group>"; };
 		815549DB1065E9C200092EAB /* SimpleBrowserController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleBrowserController.m; sourceTree = "<group>"; };
@@ -80,6 +83,8 @@
 		29B97314FDCFA39411CA2CEA /* SimpleBrowserWithController */ = {
 			isa = PBXGroup;
 			children = (
+				812D006C106C879700F54DFD /* LoadingIndicatorController.h */,
+				812D006D106C879700F54DFD /* LoadingIndicatorController.m */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
@@ -177,6 +182,7 @@
 			files = (
 				8D11072D0486CEB800E47090 /* main.m in Sources */,
 				815549DC1065E9C200092EAB /* SimpleBrowserController.m in Sources */,
+				812D006E106C879700F54DFD /* LoadingIndicatorController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
